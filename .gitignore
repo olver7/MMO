@@ -83,3 +83,7 @@ Content/MSPresets/*
 !OWSInstanceLauncher/*
 !OWSInstanceLauncher/**
 OWSInstanceLauncher/*.txt
+
+Content/Aurolis/*
+!Content/Aurolis/1_LoginCreate/
+Content/Movies/*
